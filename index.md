@@ -14,3 +14,7 @@ __How to write a code in github using Markdown language__
 ```Python
 print('I love my India')
 ```
+##  Markdown is very easy!
+- [ ] Turn on GitHub ages 
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
