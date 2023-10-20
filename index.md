@@ -10,3 +10,7 @@
 ```Python
 print('Thank You')
 ```
+__How to write a code in github using Markdown language__
+```Python
+print('I love my India')
+```
